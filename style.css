@@ -1,0 +1,11 @@
+#main{
+    background-color: royalblue;
+    height: 800px;
+    width: 80%;
+    margin-left: 100px;
+    padding: 20px 20px 20px 20px;
+}
+
+#cont1{
+    display: flex;
+}
